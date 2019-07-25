@@ -5,9 +5,15 @@
   At the moment I have a better understanding on these concepts:
 
   Regression, ->module_concept "REG_MachineLearningConcept.py" :
+  
 ->SimpleLinearRegression;
+
 ->MultipleLinearRegression;
+
 ->PolinomyalRegression;
+
 ->SupportVectorRegression;
+
 ->DecisionTreeRegression;
+
 ->RandomForestRegression;
