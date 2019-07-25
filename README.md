@@ -4,7 +4,7 @@
 
   At the moment I have a better understanding on these concepts:
 
-  Regression, ->module_concept "REG_MachineLearningConcept.py" :
+  Regression, -> REG_concept -> "REG_MachineLearningConcept.py" :
   
 ->SimpleLinearRegression;
 
