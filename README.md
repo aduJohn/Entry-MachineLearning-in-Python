@@ -23,3 +23,5 @@
  ->LogisticRegression;
  
  ->KNearestKeighbors;
+ 
+ ->SupportVectorMachine
