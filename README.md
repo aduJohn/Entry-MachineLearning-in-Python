@@ -21,3 +21,5 @@
   Classification, ->CLS_concept -> "CLS_MachineLearningConcept.py" :
  
  ->LogisticRegression;
+ 
+ ->KNearestKeighbors;
