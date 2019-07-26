@@ -25,3 +25,5 @@
  ->KNearestKeighbors;
  
  ->SupportVectorMachine
+ 
+ ->NaiveBayes
