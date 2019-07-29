@@ -27,3 +27,5 @@
  ->SupportVectorMachine
  
  ->NaiveBayes
+ 
+ ->DecisionTree
