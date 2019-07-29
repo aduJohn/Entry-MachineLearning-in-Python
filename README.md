@@ -29,3 +29,5 @@
  ->NaiveBayes
  
  ->DecisionTree
+ 
+ ->RandomForestClassification
