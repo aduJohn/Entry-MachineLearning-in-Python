@@ -35,3 +35,5 @@
   Clustering, -> CLST_concept -> "CLST_MachineLearningConcept.py" :
   
   ->KMeans
+  
+  ->HierarchicalClustering
