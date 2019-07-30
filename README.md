@@ -41,3 +41,7 @@
   Association Rule Learning, -> ARL_concept -> "ARL_MachineLearningConcept.py"
   
   ->Apriori
+  
+  Reinforcement Learning, -> RI_concept -> "RI_MachineLearningConcept.py"
+  
+   ->UpperConfidenceBound
