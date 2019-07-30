@@ -37,3 +37,7 @@
   ->KMeans
   
   ->HierarchicalClustering
+  
+    Association Rule Learning, -> ARL_concept -> "ARL_MachineLearningConcept.py"
+   
+  ->Apriori
