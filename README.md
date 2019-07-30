@@ -1,6 +1,6 @@
 # MachineLearning-in-Python
 
-  In this repository I put my work on learning MachineLearning concepts.
+  In this repository I put my work on learning the basics on MachineLearning(ML) concepts.
 
   At the moment I have a better understanding on these concepts:
 
