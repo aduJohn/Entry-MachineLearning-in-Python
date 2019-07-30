@@ -45,3 +45,7 @@
   Reinforcement Learning, -> RI_concept -> "RI_MachineLearningConcept.py"
   
    ->UpperConfidenceBound
+  
+  Natural Language Processing, -> NLP_concept -> "NLP_MachineLearningConcept.py"
+  
+   ->NaturalLanguageProcessing
