@@ -49,3 +49,7 @@
   Natural Language Processing, -> NLP_concept -> "NLP_MachineLearningConcept.py"
   
    ->NaturalLanguageProcessing
+
+ Deep Learning, -> DL_concept -> "DL_MachineLearningConcept.py"
+ 
+  ->ArtificialNeuralNetwork
