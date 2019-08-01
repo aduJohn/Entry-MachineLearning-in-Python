@@ -50,8 +50,13 @@
   
    ->NaturalLanguageProcessing
 
- Deep Learning, -> DL_concept -> "DL_MachineLearningConcept.py"
+  Deep Learning, -> DL_concept -> "DL_MachineLearningConcept.py"
  
   ->ArtificialNeuralNetwork
   
   ->ConvolutionalNeuralNetwork
+ 
+ Dimensionality Reduction, -> DR_concept -> "DR_MachineLearningConcept.py"
+ 
+  ->PrincipalComponentAnalysis
+ 
