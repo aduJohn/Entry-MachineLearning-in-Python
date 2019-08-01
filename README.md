@@ -59,4 +59,6 @@
  Dimensionality Reduction, -> DR_concept -> "DR_MachineLearningConcept.py"
  
   ->PrincipalComponentAnalysis
+  
+  ->LinearDiscriminantAnalysis
  
