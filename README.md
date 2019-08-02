@@ -61,4 +61,6 @@
   ->PrincipalComponentAnalysis
   
   ->LinearDiscriminantAnalysis
+  
+  ->KernelPCA
  
