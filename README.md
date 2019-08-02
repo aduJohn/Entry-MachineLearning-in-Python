@@ -64,3 +64,6 @@
   
   ->KernelPCA
  
+ Model Selection, -> MS_concept -> "MS_MachineLearningConcept.py"
+ 
+  ->kFoldCrossValidation
