@@ -69,3 +69,7 @@
   ->kFoldCrossValidation
   
   ->GridSearch
+  
+ Boosting, -> _concept -> "_MachineLearningConcept.py"
+ 
+  ->XGBoost
